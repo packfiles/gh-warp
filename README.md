@@ -7,5 +7,5 @@ Welcome to the Packfiles GitHub CLI Extension repository!
 To install the Packfiles CLI, run:
 
 ```
-gh extension install packfiles/gh-pack
+gh extension install packfiles/gh-warp
 ```
